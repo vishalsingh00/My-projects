@@ -107,7 +107,9 @@ h3{
     width: 40%;
     margin: 40px auto 60px;
 }
-
+/* @media(min-width:136px){
+    .contact-me
+} */
 .btn 
 {
     background: #11cdd4;
@@ -179,7 +181,7 @@ a{
 }
 
 a:hover{
-    color: #EAF6F6;
+    color: #0d0e0e;
 }
 
 .copyright{
